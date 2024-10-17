@@ -26,6 +26,7 @@ p{
 
 a {
     color: #FFFFFF;
+    font-size: 25px;
     font-weight: bold;
     text-decoration: none;
 }
@@ -74,10 +75,13 @@ a {
 #main-content > li{
     display: inline-block;
     vertical-align: middle;
+    text-align: center;
     background-color: #595499; 
     width: 100px; /* Set the desired width */
     height: 30px; /* Set the desired height */
     padding: 5%;
+    padding-top: 1%;
+    padding-bottom: 5%;
     margin: 1%;
     border-radius: 25px;
 }
