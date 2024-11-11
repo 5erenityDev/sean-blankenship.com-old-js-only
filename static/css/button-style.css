@@ -1,0 +1,17 @@
+#button
+{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    background-color: #4A5166; 
+    width: 10%;
+    height: 4%;
+    padding: 3%;
+    margin: 1%;
+    border-radius: 25px;
+    font-size: 25px;
+}
+
+#button:hover{
+    opacity: 0.4;
+}
